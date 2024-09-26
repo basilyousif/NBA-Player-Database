@@ -1,0 +1,30 @@
+LeBron James|81.00|250.00|F|6|Los Angeles Lakers
+Kevin Durant|83.00|240.00|F|35|Phoenix Suns
+Kyrie Irving|74.00|195.00|G|11|Dallas Mavericks
+Luka Doncic|79.00|230.00|G|77|Dallas Mavericks
+Steph Curry|74.00|185.00|G|30|Golden State Warriors
+Shai Gilgeous-Alexander|78.00|180.00|G|2|Oklahoma City Thunder
+Anthony Edwards|76.00|225.00|G|1|Minnesota Timberwolves
+Nikola Jokic|83.00|284.00|C|15|Denver Nuggets
+Giannis Antetokounmpo|83.00|242.00|F|34|Milwaukee Bucks
+Joel Embiid|84.00|280.00|C|21|Philadelphia 76ers
+Jayson Tatum|80.00|210.00|F|0|Boston Celtics
+Jaylen Brown|78.00|223.00|G|7|Boston Celtics
+Kawhi Leonard|79.00|225.00|F|2|Los Angeles Clippers
+Jalen Brunson|74.00|190.00|G|11|New York Knicks
+James Harden|77.00|220.00|G|1|Los Angeles Clippers
+Paul George|80.00|220.00|F|13|Philadelphia 76ers
+Russell Westbrook|76.00|200.00|G|4|Philadelphia 76ers
+Hakeem Olajuwon|84.00|255.00|C|34|Houston Rockets
+Kareem Abdul-Jabbar|86.00|225.00|C|33|Los Angeles Lakers
+Michael Jordan|78.00|198.00|G|23|Chicago Bulls
+Bill Russell|82.00|215.00|C|6|Boston Celtics
+Dirk Nowitzki|84.00|245.00|F|41|Dallas Mavericks
+Shaquille O'Neal|85.00|325.00|C|34|Los Angeles Lakers
+Kobe Bryant|78.00|212.00|G|24|Los Angeles Lakers
+Magic Johnson|81.00|215.00|G|32|Los Angeles Lakers
+Wilt Chamberlain|85.00|275.00|C|13|Los Angeles Lakers
+Larry Bird|81.00|220.00|F|33|Boston Celtics
+Tim Duncan|83.00|250.00|C|21|San Antonio Spurs
+Carmelo Anthony|79.00|238.00|F|7|New York Knicks
+Allen Iverson|72.00|165.00|G|3|Philadelphia 76ers
